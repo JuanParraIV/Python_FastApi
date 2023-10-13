@@ -1,0 +1,59 @@
+{
+  "instruments": [
+    {
+      "id": 1,
+      "name": "Violin 1/32 Genova 1433P",
+      "brand": "Genova",
+      "price": 255150,
+      "category": "stringed",
+      "img": "https://lacolonial.com.co/pub/media/catalog/product/cache/fce05c1f7475c409d5310805c0d06f78/6/_/6_54.jpg",
+      "description": "Violin 1/16 marca Genova perfecto para personas que se encuentren en proceso de aprendizaje. Fabricado en pino y con un hermoso acabado lacado. Viene completo con el arco, puente, colofonia y estuche rígido con correas ajustables para su protección y transporte. Indicado para niños de 2 a 6 años, aunque puede variar en algunos casos según la estatura y longitud de extremidades superiores de la persona.",
+      "stock": 10,
+      "status": "New"
+    },
+    {
+      "id": 2,
+      "name": "Viola 15' Genova 1433P",
+      "brand": "Genova",
+      "price": 431000,
+      "category": "stringed",
+      "img": "https://lacolonial.com.co/pub/media/catalog/product/cache/fce05c1f7475c409d5310805c0d06f78/1/_/1_1_27.jpg",
+      "description": "Viola 15 pulgadas marca Genova perfecto para personas que se encuentren en proceso de aprendizaje. Fabricada en pino y con un hermoso acabado lacado. Viene completa con el arco, puente, colofonia y estuche rígido con correas ajustables para su protección y transporte. ",
+      "stock": 10,
+      "status": "New"
+    },
+    {
+      "id": 3,
+      "name": "Cello 1/2 Genova 1443P 1/2 con forro",
+      "brand": "Genova",
+      "price": 1275000,
+      "category": "stringed",
+      "img": "https://lacolonial.com.co/pub/media/catalog/product/cache/fce05c1f7475c409d5310805c0d06f78/1/_/1_29.jpg",
+      "description": "Cello 1/2 Genova 1443P1/2 con forro. Excelente para principiantes. Tapa frontal en pino abeto laminado. Espalda y aros en madera laminada. Diapasón redondeado y clavijas teñidas de negro. Incluye estuche en lona y arco.",
+      "stock": 10,
+      "status": "New"
+    },
+    {
+      "id": 4,
+      "name": "Cello 3/4 Genova 1443P3/4 con forro",
+      "brand": "Genova",
+      "price": 1402000,
+      "category": "stringed",
+      "img": "https://lacolonial.com.co/pub/media/catalog/product/cache/fce05c1f7475c409d5310805c0d06f78/3/_/3_12_16.jpg",
+      "description": "Cello 3/4 Genova 1443P3/4 con forro. Excelente para principiantes. Tapa frontal en pino abeto laminado. Espalda y aros en madera laminada. Diapasón redondeado y clavijas teñidas de negro. Incluye estuche en lona y arco",
+      "stock": 10,
+      "status": "New"
+    },
+    {
+      "id": 5,
+      "name": "Violin 4/4 Rumano Gliga Master Series M-V044",
+      "brand": "Gliga",
+      "price": 7271500,
+      "category": "stringed",
+      "img": "https://lacolonial.com.co/pub/media/catalog/product/cache/fce05c1f7475c409d5310805c0d06f78/v/2/v23.jpg",
+      "description": "Su sonido cálido y encantador puede hacerte olvidar rápidamente que no gastaste una fortuna en tu violín de concierto. Importado directamente del maestro luthier Vasile Gliga en los talleres cerca de los bosques de Transylvanian del Valle de Italia, Gliga Violins se enorgullece de poder traer tanto a músicos aficionados como profesionales, violas, violonchelos, violines y contrabajos de muy alta calidad.",
+      "stock": 10,
+      "status": "New"
+    }
+  ]
+}
